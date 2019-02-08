@@ -1,0 +1,3 @@
+https://www.codexworld.com/live-image-upload-crop-resize-using-jquery-php/
+http://demos.codexworld.com/live-image-upload-crop-resize-using-jquery-php/
+http://odyniec.net/projects/imgareaselect/
